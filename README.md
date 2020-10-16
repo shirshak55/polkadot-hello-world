@@ -1,3 +1,3 @@
 # polkadot-hello-world
 
-[[1.jpg]]
+![1](1.png)
